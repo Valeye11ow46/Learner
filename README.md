@@ -1,2 +1,1 @@
 # Learner
-printf (hello world);
